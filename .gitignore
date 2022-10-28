@@ -1,0 +1,15 @@
+**/.DS_Store
+**/.azure
+labs/arm-bicep/vm-simple-linux/azuredeploy.bicep
+**/bin
+**/obj
+download*.*
+**/.deploy
+*.pfx
+password.txt
+**/todo-list.db*
+
+.vscode/launch.json
+.vscode/tasks.json
+test.ps1
+testing.ps1
